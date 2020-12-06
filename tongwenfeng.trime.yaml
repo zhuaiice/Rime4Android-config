@@ -186,8 +186,8 @@ preset_color_schemes:
     th4: *color1 #第四行文字颜色
 
 #--------配色开始----------------#
-  qmqm:
-    name: 芊芊／qmqm
+  gboard:
+    name: gboard
     author: GABOU
     text_color: 0xff666666
     candidate_text_color: 0xffFFFFFF
