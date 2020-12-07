@@ -1,3 +1,6 @@
 patch:
   __include: easy_en:/patch
   easy_en/enable_sentence: false
+  #载入明月拼音扩充词库
+  "translator/dictionary": luna_pinyin.extended
+  'translator/preedit_format': {}
