@@ -6,6 +6,11 @@
 3.同文风皮肤+gboard配色
 # 用法
 下载-覆盖-部署
+# 效果图
+![](https://github.com/Jacobax/Rime4Android-config/raw/main/pics/1.jpg)
+![](https://github.com/Jacobax/Rime4Android-config/raw/main/pics/2.jpg)
+![](https://github.com/Jacobax/Rime4Android-config/raw/main/pics/3.jpg)
+![](https://github.com/Jacobax/Rime4Android-config/raw/main/pics/4.jpg)
 # 不足
 符号
 # 感谢
