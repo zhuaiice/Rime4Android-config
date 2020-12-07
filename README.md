@@ -7,10 +7,10 @@
 # 用法
 下载-覆盖-部署
 # 效果图
-![](https://github.com/Jacobax/Rime4Android-config/raw/main/pics/1.jpg)
-![](https://github.com/Jacobax/Rime4Android-config/raw/main/pics/2.jpg)
-![](https://github.com/Jacobax/Rime4Android-config/raw/main/pics/3.jpg)
-![](https://github.com/Jacobax/Rime4Android-config/raw/main/pics/4.jpg)
+<img src="https://github.com/Jacobax/Rime4Android-config/raw/main/pics/1.jpg" width="360" height="760" />
+<img src="https://github.com/Jacobax/Rime4Android-config/raw/main/pics/2.jpg" width="360" height="760" />
+<img src="https://github.com/Jacobax/Rime4Android-config/raw/main/pics/3.jpg" width="360" height="760" />
+<img src="https://github.com/Jacobax/Rime4Android-config/raw/main/pics/4.jpg" width="360" height="760" />
 # 不足
 符号
 # 感谢
