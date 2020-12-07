@@ -9,6 +9,7 @@
 下载-覆盖-部署。建议克隆或download zip，不建议到release下
 # 效果图
 示图为同文风主题+gboard墨色配色，建议用sogou主题+gboard墨色配色
+
 <img src="https://github.com/Jacobax/Rime4Android-config/raw/main/pics/1.jpg" width="360" height="760" />  <img src="https://github.com/Jacobax/Rime4Android-config/raw/main/pics/2.jpg" width="360" height="760" />
 <img src="https://github.com/Jacobax/Rime4Android-config/raw/main/pics/3.jpg" width="360" height="760" />  <img src="https://github.com/Jacobax/Rime4Android-config/raw/main/pics/4.jpg" width="360" height="760" />
 # 不足
