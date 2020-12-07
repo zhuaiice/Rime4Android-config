@@ -201,6 +201,7 @@ preset_color_schemes:
     candidate_back_color: 0xff292E32
     key_back_color: 0xff484C4F
     key_text_color: 0xffFFFFFF
+    benter: 0xff5F97F6 #回车键背景色
   yushe:
     name: 預設／default #方案名稱
     author: osfans #作者資訊
