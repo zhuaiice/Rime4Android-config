@@ -16,6 +16,7 @@
 <img src="https://github.com/Jacobax/Rime4Android-config/raw/main/pics/1.jpg" width="360" height="760" />  <img src="https://github.com/Jacobax/Rime4Android-config/raw/main/pics/2.jpg" width="360" height="760" />
 <img src="https://github.com/Jacobax/Rime4Android-config/raw/main/pics/3.jpg" width="360" height="760" />  <img src="https://github.com/Jacobax/Rime4Android-config/raw/main/pics/4.jpg" width="360" height="760" />
 # 不足
-同文风主题符号表情输出不友好
+同文风主题符号表情输出不友好  
+欢迎提出问题
 # 感谢
 根据前辈[Bambooin](https://github.com/Bambooin/rimerc)的trime部分配置微改得来
